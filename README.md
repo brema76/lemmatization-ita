@@ -1,2 +1,4 @@
 # lemmatization-ita
-Dictionary for italian text lemmatization
+Dictionary for Italian text lemmatization
+
+303,496 token/lemma pairs in Italian language
